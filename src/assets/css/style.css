@@ -1,0 +1,15 @@
+form input[type="text"] {
+    width: 40%;
+}
+
+.form-select {
+    width: 15%;
+}
+
+#form {
+    width: 45%;
+}
+
+#planilla {
+    width: 55%;
+}
